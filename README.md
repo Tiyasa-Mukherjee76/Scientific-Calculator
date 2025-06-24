@@ -4,13 +4,7 @@ This project implements a simple graphical calculator using C and the graphics.h
 Features
 Basic Arithmetic: Addition, Subtraction, Multiplication, Division, Remainder.
 
-Powers & Roots: Square Root, Power (X 
-Y
- ), Square (X 
-2
- ), Cube (X 
-3
- ).
+Powers & Roots: Square Root, Power, Square, Cube.
 
 Other Mathematical Functions: Reciprocal (1/X), Exponent, Factorial, Percentage, Logarithm.
 
